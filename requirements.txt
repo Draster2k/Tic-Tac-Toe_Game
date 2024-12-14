@@ -1,0 +1,8 @@
+matplotlib==3.9.2
+numpy==2.0.2
+pygame==2.6.1
+seaborn==0.13.2
+torch==2.5.0
+torchaudio==2.5.0
+torchvision==0.20.0
+torchviz==0.0.2
